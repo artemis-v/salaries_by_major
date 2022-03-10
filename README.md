@@ -3,7 +3,7 @@ Data Exploration with Pandas by Analysing the Post-University Salaries of Gradua
  
 PayScale Inc. did a year-long survey of 1.2 million Americans with only a bachelor's degree. I'll analyze this data and use Pandas to answer these questions:
 
-   1.Which degrees have the highest starting salaries? 
+   1. Which degrees have the highest starting salaries?
    2. Which majors have the lowest earnings after college?
    3. Which degrees have the highest earning potential?
    4. What are the lowest risk college majors from an earnings standpoint?
